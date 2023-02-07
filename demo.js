@@ -1,1 +1,2 @@
-console.log("Adil");
+let a = "Adil khan"
+console.log(a);
